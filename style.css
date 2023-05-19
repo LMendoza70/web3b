@@ -1,0 +1,36 @@
+
+h1{
+    color: brown;
+    font-style: italic;
+}
+#unico{
+    font-weight: bolder;
+    color: red;
+}
+.subtitulo{
+    color: burlywood;
+    font-weight: bolder;
+    margin-top: 20px;
+}
+
+body{
+    display: flex;
+    flex-direction: column;
+}
+div{
+    border-color: black;
+    border-style: solid;
+    border-width: 2px;
+    margin: 5px;
+}
+.header{
+    display: flex;
+    justify-content: space-between;
+}
+img{
+    height: 50px;
+    width: 50px;
+}
+.materias{
+    display: flex;
+}
